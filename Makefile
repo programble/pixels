@@ -1,4 +1,4 @@
-SOURCES = source/random source/solid
+SOURCES = source/random source/sin source/solid
 FILTERS = filter/fps filter/noise
 SINKS = sink/cocoa
 

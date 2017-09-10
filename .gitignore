@@ -2,4 +2,5 @@ filter/fps
 filter/noise
 sink/cocoa
 source/random
+source/sin
 source/solid
