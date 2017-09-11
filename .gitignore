@@ -1,4 +1,5 @@
 filter/fps
+filter/loop
 filter/noise
 sink/cocoa
 source/random

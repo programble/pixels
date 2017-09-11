@@ -1,5 +1,5 @@
 SOURCES = source/random source/sin source/solid
-FILTERS = filter/fps filter/noise
+FILTERS = filter/fps filter/loop filter/noise
 SINKS = sink/cocoa
 
 OBJC ?= $(CC)
