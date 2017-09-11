@@ -1,6 +1,7 @@
 filter/fps
 filter/loop
 filter/noise
+filter/repeat
 sink/cocoa
 source/random
 source/sin
